@@ -1,6 +1,7 @@
 # BangumiBoard
+
 A bangumi search and manage app for anime lovers.
 
-# Links
+# Download BangumiBoard
 
-[Privacy Policy](doc/privacy_policy.md)
+You can download BangumiBoard through [Releases](https://github.com/nfnfgo/BangumiBoard/releases) page.
